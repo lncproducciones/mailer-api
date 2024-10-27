@@ -1,0 +1,11 @@
+E:\repos\mailer-api\mailer-api\obj\Release\net8.0\PubTmp\Out\mailer-api.exe
+E:\repos\mailer-api\mailer-api\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+E:\repos\mailer-api\mailer-api\obj\Release\net8.0\PubTmp\Out\appsettings.json
+E:\repos\mailer-api\mailer-api\obj\Release\net8.0\PubTmp\Out\mailer-api.dll
+E:\repos\mailer-api\mailer-api\obj\Release\net8.0\PubTmp\Out\mailer-api.deps.json
+E:\repos\mailer-api\mailer-api\obj\Release\net8.0\PubTmp\Out\mailer-api.runtimeconfig.json
+E:\repos\mailer-api\mailer-api\obj\Release\net8.0\PubTmp\Out\mailer-api.pdb
+E:\repos\mailer-api\mailer-api\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\repos\mailer-api\mailer-api\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\repos\mailer-api\mailer-api\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\repos\mailer-api\mailer-api\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

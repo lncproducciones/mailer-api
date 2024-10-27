@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zH+mptOxNOWBv3CIwuhBt8Hk3RCGN9NOR1eGNDSzF+c=",
+  "Source": "mailer-api",
+  "BasePath": "_content/mailer-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
